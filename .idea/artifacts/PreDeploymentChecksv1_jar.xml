@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="PreDeploymentChecksv1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PreDeploymentChecksv1_jar</output-path>
+    <root id="archive" name="PreDeploymentChecksv1.jar">
+      <element id="module-output" name="PreDeploymentChecksv1" />
+    </root>
+  </artifact>
+</component>
